@@ -17,5 +17,5 @@ const customElement = (
   </table>
 );
 
-createRoot(document.getElementById("root")).render(customElement
+createRoot(document.getElementById("jj")).render(customElement
 );

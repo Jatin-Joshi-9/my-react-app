@@ -12,7 +12,19 @@
 
 - The render method defines what to render in the HTML container.
 
--The result is displayed in the ```<div id="root">``` element
+- The result is displayed in the ```<div id="root">``` element
 
--Note: the element id does not have to be **"root"**, but this is the standard convention.
+- Note: the element id does not have to be **"root"**, but this is the standard convention.
+
+- The Root Node
+The root node is the HTML element where you want to display the result.
+
+- It is like a container for content, managed by React.
+
+- It does NOT have to be a ```<div> ```element and it does NOT have to have the id='root':
+
+- Example
+The root node can be called whatever you like.
+
+- Display the result in the ```<header id="sandy">``` element:
 

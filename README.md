@@ -27,4 +27,10 @@ The root node is the HTML element where you want to display the result.
 The root node can be called whatever you like.
 
 - Display the result in the ```<header id="sandy">``` element:
+--- 
+# React ES6
+
+- ES6 stands for ECMAScript 6.
+
+- ECMAScript was created to standardize JavaScript, and ES6 is the 6th version of ECMAScript, it was published in 2015, and is also known as ECMAScript 2015.
 
